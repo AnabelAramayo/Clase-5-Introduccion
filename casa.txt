@@ -1,2 +1,3 @@
 Una casa tiene techo
 Tambien tiene piso
+Y tambien tiene mesa
